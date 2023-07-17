@@ -1,7 +1,7 @@
 # Ryan Schreiber's Resume Projects
 
 Welcome to my portfolio page! Most of my employed work is either proprietary or depends on proprietary data, so this is a collection
-of simple projects to give a sample of tools and experience I had developed professionally. I will also target
+of simple projects to give a sample of tools and experience I had developed professionally.
 
 ### 1. [Airflow Showcase](https://github.com/ryan-schreiber-resume-projects/airflow-baseball-teams)
 Multi-tool project showcasing some basic Airflow dags, infrastructure as code, and ETL with PySpark with data for baseball teams.
