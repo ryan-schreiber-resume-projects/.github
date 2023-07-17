@@ -13,4 +13,4 @@ Python context managers for working with files in Git as if they were local file
 Python library that makes working with structured data easier and more powerful.
 
 ### 4. [iOS Produce Codes App](https://github.com/produce-codes-library)
-A simple iOS app for teaching grocery store workers produce codes, you can find it on the app store here.
+A simple iOS app for teaching grocery store workers produce codes, you can find it on the app store [here](https://apps.apple.com/us/app/produce-codes-library/id1569085564).
